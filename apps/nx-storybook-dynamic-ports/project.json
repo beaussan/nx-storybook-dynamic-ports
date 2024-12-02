@@ -1,0 +1,9 @@
+{
+  "name": "nx-storybook-dynamic-ports",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/nx-storybook-dynamic-ports/src",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project nx-storybook-dynamic-ports --web",
+  "targets": {}
+}
